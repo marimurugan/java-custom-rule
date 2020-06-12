@@ -1,0 +1,8 @@
+{
+  "title": "Define Proper scope of Bean in spring-bean.XML files",
+  "type": "BUG",
+  "status": "ready",
+  "tags": [
+    "spring"],
+  "defaultSeverity": "Critical"
+}

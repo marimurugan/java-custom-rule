@@ -1,0 +1,17 @@
+C:\workspaces\BSL-workspace\java-custom-rules\src\main\java\org\sonar\samples\java\MyJavaRulesPlugin.java
+C:\workspaces\BSL-workspace\java-custom-rules\src\main\java\org\sonar\samples\java\RulesList.java
+C:\workspaces\BSL-workspace\java-custom-rules\src\main\java\org\sonar\sample\model\SimpleXPathBasedCheck.java
+C:\workspaces\BSL-workspace\java-custom-rules\src\main\java\org\sonar\samples\java\checks\AvoidTreeListRule.java
+C:\workspaces\BSL-workspace\java-custom-rules\src\main\java\org\sonar\sample\model\ModifiersUtils.java
+C:\workspaces\BSL-workspace\java-custom-rules\src\main\java\org\sonar\samples\java\checks\AvoidAnnotationRule.java
+C:\workspaces\BSL-workspace\java-custom-rules\src\main\java\org\sonar\samples\java\checks\PrinterVisitor.java
+C:\workspaces\BSL-workspace\java-custom-rules\src\main\java\org\sonar\samples\java\MyJavaFileCheckRegistrar.java
+C:\workspaces\BSL-workspace\java-custom-rules\src\main\java\org\sonar\samples\java\checks\AvoidSuperClassRule.java
+C:\workspaces\BSL-workspace\java-custom-rules\src\main\java\org\sonar\samples\java\checks\SpringControllerRequestMappingEntityRule.java
+C:\workspaces\BSL-workspace\java-custom-rules\src\main\java\org\sonar\samples\java\checks\XPathCheckRule.java
+C:\workspaces\BSL-workspace\java-custom-rules\src\main\java\org\sonar\samples\java\MyJavaRulesDefinition.java
+C:\workspaces\BSL-workspace\java-custom-rules\src\main\java\org\sonar\samples\java\checks\SecurityAnnotationMandatoryRule.java
+C:\workspaces\BSL-workspace\java-custom-rules\src\main\java\org\sonar\samples\java\checks\AvoidClassInstanceObjectRule.java
+C:\workspaces\BSL-workspace\java-custom-rules\src\main\java\org\sonar\samples\java\checks\AvoidMethodDeclarationRule.java
+C:\workspaces\BSL-workspace\java-custom-rules\src\main\java\org\sonar\samples\java\checks\AvoidBrandInMethodNamesRule.java
+C:\workspaces\BSL-workspace\java-custom-rules\src\main\java\org\sonar\samples\java\checks\MyCustomSubscriptionRule.java
